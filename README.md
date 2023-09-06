@@ -2,6 +2,8 @@
 
 Application Ordo permettant d'afficher l'heure et la date.
 
+![Présentation](img/presentation.png)
+
 ## Ajouter l'application
 
 Sur Ordo, déposer ce dossier dans "plugins" dans votre application Ordo.
